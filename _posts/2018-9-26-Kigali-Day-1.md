@@ -9,7 +9,7 @@ After so much excitement, I've finally arrived in Kigali!
 I was greeted by my version of a red carpet - a very efficient visa-on-arrival customs system. In fact, the only place I've been able to get through quicker has been New Zealand!
 
 ![Kigali Customs](/images/customs.jpg "This but with 2 people")
-This but with 2 people - *Source: Rwandan Development Board*
+*Source: Rwandan Development Board*
 
 About half the day was spent catching up on sleep after some difficulties sleeping on the flight but I had some thoughts on the flight:
 
