@@ -45,6 +45,9 @@ Out of nowhere, there was a huge rainstorm. In case you like the sound of intens
 
 <iframe src="https://player.vimeo.com/video/292474421" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+Dinner
+=====
+
 At the end of a full-on day, I had dinner at a Ugandan restaurant with some AIMS people where they served 'Now Now Rolex'. No these aren't cheap knock-off watches, they're strange Chapati rolls with random fillings inside - the Italian one was particularly good.
 
 
@@ -52,8 +55,6 @@ Daily Summary
 ===========
 
 **Kinyurwanda Word**: Mwiriwe Neza *(Good Evening)*
-
-**Question**:
 
 **Thought**: It's easier to meet a more diverse set of people when there is a large homogenous population and clear outsiders than when there's an inherently diverse population but everyone segregates into their groups of similar views (i.e. London)
 
