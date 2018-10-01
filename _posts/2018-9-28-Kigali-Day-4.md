@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kigali Day 4 - Quiet, then bustle on 'Umuganda'
-date: "September 28, 2018"
+date: "September 29, 2018"
 ---
 
 Today is Umuganda, the monthly community service day that all Rwandans must participate in.
