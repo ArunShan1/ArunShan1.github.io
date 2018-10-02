@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kigali Day 5 - Being a Tourist/Expat'
+title: Kigali Day 5 - Being a Tourist/Expat
 date: "September 30, 2018"
 ---
 
