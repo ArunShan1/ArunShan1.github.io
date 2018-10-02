@@ -19,10 +19,7 @@ I haven't done much exercise in a while and I wanted a good view of Kigali as a 
 
 I was sort of wandering rather than following a clear route up so I ended up stumbling upon a random electric facility??? (Do correct me if it's something else!) as well as a military base where I was shooed off and told to go in any direction but that one!
 
-<p float="left">
-  <img src="/images/electric.jpg" width="350" />
-  <img src="/images/military.jpg" width="350" />
-</p>
+![Electric Facility](/images/electric.jpg "Electric Facility")
 *Running into random things*
 
 I ended up finally finding the place and settled into a nice cool smoothie atop the mountain at this touristy cafe.
