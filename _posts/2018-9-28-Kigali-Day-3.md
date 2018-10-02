@@ -54,7 +54,7 @@ At the end of a full-on day, I had dinner at a Ugandan restaurant with some AIMS
 Daily Summary
 ===========
 
-**Kinyurwanda Word**: Mwiriwe Neza *(Good Evening)*
+**Kinyarwanda Word**: Mwiriwe Neza *(Good Evening)*
 
 **Thought**: It's easier to meet a more diverse set of people when there is a large homogenous population and clear outsiders than when there's an inherently diverse population but everyone segregates into their groups of similar views (i.e. London)
 

@@ -21,7 +21,7 @@ I had a fish brochette for lunch with fried bananas at the [Hotel Chez Lando](ht
 
 ![Lunch 2](/images/lunch.jpg "Lunch")
 
-I thought I'd go looking for the University of Rwanda College of Business and Economics but ended up getting lost on the way and this man (below) kept telling me to follow him in Kinyurwanda (I think???) and led me down a random track.
+I thought I'd go looking for the University of Rwanda College of Business and Economics but ended up getting lost on the way and this man (below) kept telling me to follow him in Kinyarwanda (I think???) and led me down a random track.
 
 
 ![Man](/images/followman.jpg "Follow me")
@@ -39,7 +39,7 @@ Really glad the proposal and some of the ideas on it are now coming together. Le
 Daily Summary
 ===========
 
-**Kinyurwanda Word**:  Akazi *(Work)*
+**Kinyarwanda Word**:  Akazi *(Work)*
 
 **Question**: My dream is to live in London. Why would you be in Kigali when you could be in London?
 

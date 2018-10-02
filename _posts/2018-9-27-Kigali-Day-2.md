@@ -53,7 +53,7 @@ In the evening, I had a really nice walk back home after an awesome day. Walked 
 Daily Summary
 ===========
 
-**Kinyurwanda Word**: Urakoze *(Thank you)*
+**Kinyarwanda Word**: Urakoze *(Thank you)*
 
 **Question**: What are you doing here? Apparently walking where there isn't a footpath and on the grass isn't allowed and a man with a gun will make sure you know of it!
 

@@ -45,7 +45,7 @@ People I met
 Daily Summary
 ===========
 
-**Kinyurwanda Word**: Mwaramutse *(Good Morning)*
+**Kinyarwanda Word**: Mwaramutse *(Good Morning)*
 
 **Question**: Can you tell the difference between the way Rwandans and Tanzanians speak English?
 

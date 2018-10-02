@@ -60,7 +60,7 @@ The city centre was fairly small though and it very quickly led to some of the r
 Daily Summary
 ===========
 
-**Kinyurwanda Word**: Umuganda *(National Service)*
+**Kinyarwanda Word**: Umuganda *(National Service)*
 
 **Thought**: Umuganda is an awesome concept and should be applied elsewhere but it's really hard to get people to see the point without an existing sense of national public pride. That pride for not just your subgroup but the community, country and even outsiders is really hard to build but a big loss is an unfortunate but proven way of creating it.
 

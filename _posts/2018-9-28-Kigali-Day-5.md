@@ -72,7 +72,7 @@ The supermarket had everything I could possibly want as an expat here. It was al
 Daily Summary
 ===========
 
-**Kinyurwanda Word**: Mzungu *(White person)*
+**Kinyarwanda Word**: Mzungu *(White person)*
 
 **Question**: What jobs can expats have here that really do have impact?
 
